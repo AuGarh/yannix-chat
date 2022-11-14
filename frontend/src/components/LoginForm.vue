@@ -138,6 +138,7 @@ export default {
   text-align: center;
   font-weight: 700;
   color: #292929;
+  cursor: pointer;
 }
 
 .login__form__username__input {
